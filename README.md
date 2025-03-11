@@ -23,7 +23,7 @@
 <li>@reduxjs/toolkit</li>
 <li>react-select</li>
 <li>axios</li>
-<li>RapidApi(for api)</li>
+<li>rapidapi (for api)</li>
 <li>uiverse.io (for loader)</li>
 
 <h1>Preview</h1>
